@@ -1,0 +1,8 @@
+demo of React.Context
+
+React.reducer hook
+
+demo how to pass/convert object as prop to component
+
+        <Hello {...state} />
+        <Hello name={state.name} />
